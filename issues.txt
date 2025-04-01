@@ -1,0 +1,13 @@
+tamad (I0lagin)
+
+first of all i have no idea how to play a piano
+i also realized that _ is shorthand for ---. pretty later on
+LM and Harano Aji fonts are personal preferences (same fonts as upLaTeX)
+
+- m17: top crescendo overlaps with slur
+- m54:
+	- beginning of grace notes (b) not overlapping with normal note (b)
+	- can't emulate ties from graces (skill issue)
+	- where's the "6" supposed to go?
+- m55: grace note position incorrect?
+- m60~: 16th note grouping incorrect
